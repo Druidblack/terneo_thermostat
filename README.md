@@ -21,6 +21,12 @@ The integration automatically detects the device version during setup and, from 
 
 <img width="421" height="378" alt="image" src="https://github.com/user-attachments/assets/c4e45499-fb6e-4a13-a75d-17c640502aa0" />
 
+<img width="423" height="517" alt="image" src="https://github.com/user-attachments/assets/31431f91-8aee-4f70-9f43-bb744cdfe8a3" />
+
+<img width="428" height="818" alt="image" src="https://github.com/user-attachments/assets/94e19fd3-8b45-4637-8023-1a0662499e64" />
+
+<img width="425" height="927" alt="image" src="https://github.com/user-attachments/assets/0d31b7c6-9df9-410c-a252-d4400314acb3" />
+
 
 ### Climate Entity
 - Turn on/off
