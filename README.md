@@ -1,6 +1,10 @@
 # Terneo/Welrok Thermostat Integration for Home Assistant
 
-[![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/custom-components/hacs)
+<img width="2000" height="334" alt="4c8grq59fdbxs708khd8hru46i0iqvxv" src="https://github.com/user-attachments/assets/fecdffe1-d71b-4e64-84e9-54028a8cd8b5" /> 
+
+<img width="725" height="135" alt="logotipwelrokgoluboj" src="https://github.com/user-attachments/assets/18102fa7-717f-4e65-a940-4ebd2f64ba84" />
+
+
 
 Custom component for Home Assistant to control Terneo/Welrok thermostats via local API.
 
