@@ -19,6 +19,9 @@ The integration automatically detects the device version during setup and, from 
 
 ## Features
 
+<img width="421" height="378" alt="image" src="https://github.com/user-attachments/assets/c4e45499-fb6e-4a13-a75d-17c640502aa0" />
+
+
 ### Climate Entity
 - Turn on/off
 - Set target temperature
